@@ -1,0 +1,16 @@
+
+{
+    "nama": "Budi",
+    "umur": "20",
+    "nrp": "123456789",
+    "lulusan": "true",
+    "hoby": [
+        "Berenang",
+        "Renang",
+        "Renang"
+    ],
+    "pembimbing": {
+        "pembimbing1": "Ahmd Sibly",
+        "pembimbing2": "Doddy Ferdiansyah"
+    }
+}
